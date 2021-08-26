@@ -1,0 +1,13 @@
+.headline{
+      color:hotpink
+}
+.text{
+      color:black
+}
+.name{
+      color:darkgreen
+}
+body {
+      font-family:"Yu Gothic", "游ゴシック", YuGothic, "游ゴシック体";
+}
+body{background:linear-gradient(#fcfcfc, #9941D8);}
